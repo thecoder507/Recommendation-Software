@@ -15,4 +15,3 @@ def print_pizza_radar_design():
     print("                    ⢰⠁⠀⡤⠖⠺⢶⡾⠃⠀   R A D A R    ⠈⠙⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀")
     print("                    ⠈⠓⠾⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀")
 
-name = input("what is your name?T")
